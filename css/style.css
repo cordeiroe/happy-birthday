@@ -70,9 +70,10 @@ body {
 #card-inside {
   font-size: 1.3em;
   line-height: 1.4;
-font-family: 'Lobster';
+font-family: 'Roboto';
   color: #331717;
   font-style: italic;
+  font-size: 12px;
 }
 
 p {
@@ -88,6 +89,13 @@ p.signed {
   text-align: center;
 font-family: 'Indie Flower', cursive;
   font-size: 1.5em;
+}
+
+.quoteMusica {
+  text-align: center;
+  line-height: 1.5;
+  margin: 0 auto;
+  width: 80%;
 }
 
 #card-front {
